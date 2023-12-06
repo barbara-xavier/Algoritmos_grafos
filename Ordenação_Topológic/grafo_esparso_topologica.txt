@@ -1,0 +1,40 @@
+Vértice 1 está conectado a: 
+Vértice: 2, Peso: 1
+Vértice: 4, Peso: 1
+Vértice: 5, Peso: 1
+
+Vértice 2 está conectado a: 
+Vértice: 5, Peso: 1
+Vértice: 6, Peso: 1
+Vértice: 7, Peso: 1
+
+Vértice 3 está conectado a: 
+Vértice: 5, Peso: 1
+Vértice: 7, Peso: 1
+Vértice: 8, Peso: 1
+
+Vértice 4 está conectado a: 
+Vértice: 6, Peso: 1
+Vértice: 9, Peso: 1
+
+Vértice 5 está conectado a: 
+Vértice: 8, Peso: 1
+Vértice: 10, Peso: 1
+
+Vértice 6 está conectado a: 
+Vértice: 9, Peso: 1
+Vértice: 10, Peso: 1
+
+Vértice 7 está conectado a: 
+Vértice: 6, Peso: 1
+Vértice: 10, Peso: 1
+
+Vértice 8 está conectado a: 
+Vértice: 10, Peso: 1
+
+Vértice 9 está conectado a: 
+Vértice: 2, Peso: 1
+Vértice: 10, Peso: 1
+
+Vértice 10 está conectado a: 
+
